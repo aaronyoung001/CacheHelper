@@ -1,0 +1,20 @@
+{
+  "name": "cache-helper",
+  "version": "1.0.0",
+  "description": "a better way for cacheing in web",
+  "main": "CacheHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "aaron",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+
+  }
+}
